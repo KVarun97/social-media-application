@@ -1,0 +1,7 @@
+export const SNACKBAR_OPEN = "SNACKBAR_OPEN";
+export const SNACKBAR_CLEAR = "SNACKBAR_CLEAR";
+
+export const GET_POSTS_PENDING = "GET_POSTS_PENDING";
+export const GET_POSTS_SUCCESS = "GET_POSTS_SUCCESS";
+
+

@@ -1,0 +1,23 @@
+.posts {
+  padding: 0 2em;
+  .new-post-form-container {
+    .new-post-form {
+      margin: auto;
+      width: 50vw;
+      .new-post-form-contents {
+        display: flex;
+        flex-direction: column;
+        .form-labels {
+          margin-bottom: 1em;
+        }
+        .form-fields {
+          margin-bottom: 1em;
+        }
+        .form-button {
+          width: 10vw;
+          margin: auto;
+        }
+      }
+    }
+  }
+}
